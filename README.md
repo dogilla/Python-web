@@ -1,2 +1,2 @@
 # Python-web
-Repositorio para práctica Ingenieria de Software
+Repositorio para prácticas de Ingenieria de Software
